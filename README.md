@@ -234,10 +234,21 @@ myScoreboard.animate([{
     delay: 5
 }]);
 ```
-Preview screenshots/gifs coming soon...
+
+# Planned Features
+
+### Next Release:
+- Include screenshots/gifs in documentation
+- Use TSDoc in library
+- Clarify types
+
+### Future Releases:
+- Allow for lines to have *all* of the same formatting options that displays have.
+- Make scoreboard displays/animations transferrable between scoreboards in the same way that lines currently are.
+- General performance improvements/optimizations
 
 # License
 
-Copyright &copy; 2021 [ncklwse](https://github.com/ncklwse).
+Copyright &copy; 2021 [Nickelwise](https://github.com/ncklwse).
 
 Licensed [MIT](https://github.com/ncklwse/sandstone-scoreboard/blob/master/LICENSE)
