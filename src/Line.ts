@@ -13,30 +13,61 @@ export class Line {
     private updateListeners: ((cancelListener: (() => void)) => void)[] = [];
     private rawData: customJSONTextComponent[];
 
+    /**
+     * @param line A custom JSONTextComponent containing the text information for the initial line value
+     */
     constructor(line: customJSONTextComponent | customJSONTextComponent[]) {
         this.index = Line.instances.length;
         this.rawData = (line instanceof Array) ? line : [line];
         Line.instances.push(this);
     }
 
+    /**
+     * Updates the line value (across all scoreboards)
+     * @param line A custom JSONTextComponent containing the text information for the updated line value
+     */
     update(line: customJSONTextComponent | customJSONTextComponent[]) {
         this.rawData = (line instanceof Array) ? line : [line];
         this._triggerUpdate();
     }
 
+    /**
+     * @deprecated
+     * @ignore
+     * @internal 
+     * @hidden
+     */
     _getId() {
         return this.index;
     }
-        
+
+    /**
+     * @deprecated
+     * @ignore
+     * @internal 
+     * @hidden
+     */
     _getRawData() {
         return this.rawData;
     }
 
+    /**
+     * @deprecated
+     * @ignore
+     * @internal 
+     * @hidden
+     */
     _onUpdate(fn: ((cancelListener: (() => void)) => void)) {
         this.updateListeners.push(fn);
         
     }
 
+    /**
+     * @deprecated
+     * @ignore
+     * @internal 
+     * @hidden
+     */
     _triggerUpdate() {
         
         const toRemove: number[] = [];

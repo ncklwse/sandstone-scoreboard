@@ -116,21 +116,29 @@ export class Scoreboard {
         }
     }
 
-    private removeRawLine(score: number) {
-        for (const lineKey in this.lines) {
+    private render() {
 
-            if (this.lines[lineKey].score > score) {
-                this.lines[lineKey].score--;
-            }
+        this.ready();
 
-            if (this.lines[lineKey].score === score) {
-                delete this.lines[lineKey];
-                break;
-            }
-            
+        scoreboard.players.reset('*', this.objectiveName);
+
+        let generatedTeams = 0;
+        for (const [name, {line, nameIndex, score}] of Object.entries(this.lines)) {
+            team.add(`anon_${dataPack.packUid}_${generatedTeams}`);
+            team.modify(`anon_${dataPack.packUid}_${generatedTeams}`, 'prefix', JSON.stringify(line.slice(0, nameIndex)));
+            team.modify(`anon_${dataPack.packUid}_${generatedTeams}`, 'color', line[nameIndex].color ?? 'white');
+            team.modify(`anon_${dataPack.packUid}_${generatedTeams}`, 'suffix', JSON.stringify(line.slice(nameIndex + 1)));
+            team.join(`anon_${dataPack.packUid}_${generatedTeams}`, name);
+            scoreboard.players.set(name, this.objectiveName, score);
+            generatedTeams++;
+
         }
+
     }
 
+    /**
+     * @param displayName A JSONTextComponent containing the text information for the default scoreboard display
+     */
     constructor(displayName: JSONTextComponent) {
         this.displayName = displayName;
         this.index = Object.keys(Scoreboard.instances).length;
@@ -138,6 +146,11 @@ export class Scoreboard {
         Scoreboard.instances.push(this);
     }
 
+    /**
+     * Adds a Line to the scoreboard
+     * @param line The Line instance to add to the scoreboard
+     * @param priority The priority for how high up your line appears in the scoreboard
+     */
     addLine(line: Line, priority?: number) {
 
         let nameIndex = this.addRawLine(line._getRawData(), priority ?? 0);
@@ -173,6 +186,10 @@ export class Scoreboard {
 
     }
     
+    /**
+     * Animates the scoreboard display through an array of specified keyframes
+     * @param keyframes An array of JSONTextComponents with the added (optional) duration parameter, specified in ticks
+     */
     animate(keyframes: ({ display: JSONTextComponent, duration?: number })[]) {
 
         this.animated = true;
@@ -196,6 +213,10 @@ export class Scoreboard {
 
     }
 
+    /**
+     * Hides the scoreboard
+     * @param teamColor The color of the team to hide the scoreboard from
+     */
     hide(teamColor?: BASIC_COLORS) {
 
         this.ready();
@@ -209,6 +230,10 @@ export class Scoreboard {
 
     }
 
+    /**
+     * Removes all matching Line instances from the scoreboard
+     * @param line The Line instance to remove from the scoreboard
+     */
     removeLine(line: Line) {
 
         const currentId = line._getId();
@@ -227,26 +252,10 @@ export class Scoreboard {
 
     }
 
-    render() {
-
-        this.ready();
-
-        scoreboard.players.reset('*', this.objectiveName);
-
-        let generatedTeams = 0;
-        for (const [name, {line, nameIndex, score}] of Object.entries(this.lines)) {
-            team.add(`anon_${dataPack.packUid}_${generatedTeams}`);
-            team.modify(`anon_${dataPack.packUid}_${generatedTeams}`, 'prefix', JSON.stringify(line.slice(0, nameIndex)));
-            team.modify(`anon_${dataPack.packUid}_${generatedTeams}`, 'color', line[nameIndex].color ?? 'white');
-            team.modify(`anon_${dataPack.packUid}_${generatedTeams}`, 'suffix', JSON.stringify(line.slice(nameIndex + 1)));
-            team.join(`anon_${dataPack.packUid}_${generatedTeams}`, name);
-            scoreboard.players.set(name, this.objectiveName, score);
-            generatedTeams++;
-
-        }
-
-    }
-
+    /**
+     * Shows the scoreboard
+     * @param teamColor The color of the team to show the scoreboard to
+     */
     show(teamColor?: BASIC_COLORS) {
         
         if (Object.keys(this.lines).length === 0) {
