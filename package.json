@@ -1,12 +1,13 @@
 {
   "name": "sandstone-scoreboard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create custom scoreboards in sandstone with ease",
   "keywords": [
     "sandstone",
     "scoreboard",
     "minecraft",
-    "datapack"
+    "datapack",
+    "sandstone-library"
   ],
   "author": "nickelwise",
   "repository": {
