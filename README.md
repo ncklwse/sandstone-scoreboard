@@ -65,6 +65,8 @@ const myLine = new Line({
 myScoreboard.addLine(myLine);
 ```
 
+[Example 1](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example1.png)
+
 Lines *must* contain at least one non-whitespace character, because of how this library was created. This library works by adding this non-whitespace character to the scoreboard as a player, with all other text being used as prefixes/suffixes on a team to which the scoreboard player is assigned.
 
 ```ts
@@ -150,6 +152,7 @@ const myLine = new Line([{
 
 myScoreboard.addLine(myLine);
 ```
+[Example 2](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example2.png)
 
 Like scoreboards, lines aren't tied to any specific MCFunction, meaning you can export them and use them across multiple files. Additionally, lines can be used in different scoreboard and can be added to the same scoreboard multiple times!
 
@@ -169,11 +172,11 @@ const line1 = new Line({
     text: 'Added first'
 });
 
-const line1 = new Line({
+const line2 = new Line({
     text: 'Added second'
 });
 
-const line1 = new Line({
+const line3 = new Line({
     text: 'Added third, but with priority'
 });
 
@@ -181,6 +184,7 @@ myScoreboard.addLine(line1);
 myScoreboard.addLine(line2);
 myScoreboard.addLine(line3, 2);
 ```
+[Example 3](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example3.png)
 
 To remove a line from your scoreboard, use the same line instance you passed when you added it. This will remove all instances of that line from the scoreboard.
 
@@ -219,30 +223,30 @@ You can also show/hide your scoreboard to a specific team color:
 myScoreboard.show('red');
 ```
 
-One of the features which I'm most proud of is the ability to animate scoreboard objectives, which can be done using the `.animate()` method. The sole argument is a JSON Text Component, with the added `delay` property. The delay is specified in ticks, with the default being 20.
+One of the features which I'm most proud of is the ability to animate scoreboard objectives, which can be done using the `.animate()` method. The sole argument is an array of objects with the `display` property containing a JSON Text Component, as well as an optional `duration` property. The duration of each frame is specified in ticks, with the default being 20.
 
 ```ts
 myScoreboard.animate([{
-    text: 'Hello world!',
-    color: 'white',
-    bold: false,
-    delay: 5
+    display: {
+        text: 'Hello world!',
+        color: 'gold',
+        bold: true
+    },
+    duration: 5
 }, {
-    text: 'Hello world!',
-    color: 'gold',
-    bold: true,
-    delay: 5
+    display: {
+        text: 'Hello world!',
+        color: 'white',
+        bold: false
+    },
+    duration: 5
 }]);
 ```
 
+[Example 4](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example4.gif)
+
 # Planned Features
 
-### Next Release:
-- Include screenshots/gifs in documentation
-- Use TSDoc in library
-- Clarify types
-
-### Future Releases:
 - Allow for lines to have *all* of the same formatting options that displays have.
 - Make scoreboard displays/animations transferrable between scoreboards in the same way that lines currently are.
 - General performance improvements/optimizations
