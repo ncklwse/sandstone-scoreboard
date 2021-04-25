@@ -1,202 +1,202 @@
 {
   "program": {
     "fileInfos": {
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es5.d.ts": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
         "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
         "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "affectsGlobalScope": false
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2016.d.ts": {
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "affectsGlobalScope": false
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.d.ts": {
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "affectsGlobalScope": false
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.d.ts": {
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "affectsGlobalScope": false
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.d.ts": {
+      "../node_modules/typescript/lib/lib.es2019.d.ts": {
         "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
         "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
         "affectsGlobalScope": false
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.d.ts": {
         "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
         "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
         "affectsGlobalScope": false
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
         "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
         "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
         "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
         "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
         "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
         "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
         "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
         "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
         "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
         "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
         "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
         "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
         "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
         "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
         "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
         "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
         "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
         "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
         "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
         "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
         "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.promise.d.ts": {
         "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
         "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
         "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
         "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.string.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.string.d.ts": {
         "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
         "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
         "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
         "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.intl.d.ts": {
+      "../node_modules/typescript/lib/lib.es2020.intl.d.ts": {
         "version": "e79ca55569f09a5dc3354be04dba4ae85865b1dce98bf46738ffe231c669621f",
         "signature": "e79ca55569f09a5dc3354be04dba4ae85865b1dce98bf46738ffe231c669621f",
         "affectsGlobalScope": true
       },
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
         "version": "506b80b9951c9381dc5f11897b31fca5e2a65731d96ddefa19687fbc26b23c6e",
         "signature": "506b80b9951c9381dc5f11897b31fca5e2a65731d96ddefa19687fbc26b23c6e",
         "affectsGlobalScope": true
       },
-      "../node_modules/sandstone/commands/command.d.ts": {
+      "../node_modules/sandstone/commands/Command.d.ts": {
         "version": "3b53fe1f1e70b45713907f11f47e4daf64fe5c33356af8f2e0953a6d169cd38b",
         "signature": "3b53fe1f1e70b45713907f11f47e4daf64fe5c33356af8f2e0953a6d169cd38b",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/generaltypes.d.ts": {
+      "../node_modules/sandstone/generalTypes.d.ts": {
         "version": "97c2482b305f77aecbaa3cf1501e4add1625e58100c5607d9e81746750a4bb7c",
         "signature": "97c2482b305f77aecbaa3cf1501e4add1625e58100c5607d9e81746750a4bb7c",
         "affectsGlobalScope": false
@@ -206,7 +206,7 @@
         "signature": "7d70f96563ed759857b88a264619d381e4e082f08db63b4c135921a17a59cc92",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/coordinates.d.ts": {
+      "../node_modules/sandstone/variables/Coordinates.d.ts": {
         "version": "ea67ca023d55538af9f70119c99a1584fa4a465f080dc345f47dfce9deb4d0fc",
         "signature": "ea67ca023d55538af9f70119c99a1584fa4a465f080dc345f47dfce9deb4d0fc",
         "affectsGlobalScope": false
@@ -216,17 +216,17 @@
         "signature": "0b9162da55d55f273a1b704f1698293214f6ddbf129b9917b7a9c715905e86f4",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/jsontextcomponent.d.ts": {
+      "../node_modules/sandstone/arguments/jsonTextComponent.d.ts": {
         "version": "c7831dc41f5899db4fcff507190de79327b66a9648dcacab8edc7b5e8bdc3bce",
         "signature": "c7831dc41f5899db4fcff507190de79327b66a9648dcacab8edc7b5e8bdc3bce",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/abstractclasses.d.ts": {
+      "../node_modules/sandstone/variables/abstractClasses.d.ts": {
         "version": "c1563676a78632c75bd4f7148c0e304299172745cd6e72e96e8d2472d268d2e0",
         "signature": "c1563676a78632c75bd4f7148c0e304299172745cd6e72e96e8d2472d268d2e0",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts": {
+      "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts": {
         "version": "9cfcb53dab6c54860f35c3a3ead2745f60e0f1c92f60c473eeea894ab758cdaf",
         "signature": "9cfcb53dab6c54860f35c3a3ead2745f60e0f1c92f60c473eeea894ab758cdaf",
         "affectsGlobalScope": false
@@ -461,22 +461,22 @@
         "signature": "9c4c395e927045b324877acdc4bfb95f128f36bc9f073266a2f0342495075a4f",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/nbts.d.ts": {
+      "../node_modules/sandstone/variables/NBTs.d.ts": {
         "version": "91a5a35e21d3b99cde1a77cef90dec8e949f911b042de84a5a7675ac3ebd33dc",
         "signature": "91a5a35e21d3b99cde1a77cef90dec8e949f911b042de84a5a7675ac3ebd33dc",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/data.d.ts": {
+      "../node_modules/sandstone/variables/Data.d.ts": {
         "version": "02f7b9f4e84140317aa244f8ab9c8f2bb63fd91de4b0d70a10ecd54fa02884dd",
         "signature": "02f7b9f4e84140317aa244f8ab9c8f2bb63fd91de4b0d70a10ecd54fa02884dd",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/score.d.ts": {
+      "../node_modules/sandstone/variables/Score.d.ts": {
         "version": "0e2a467c7999b61a706248ceb78e7210bfe6225eba77729eaa9c1d16e3f6a82a",
         "signature": "0e2a467c7999b61a706248ceb78e7210bfe6225eba77729eaa9c1d16e3f6a82a",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/objective.d.ts": {
+      "../node_modules/sandstone/variables/Objective.d.ts": {
         "version": "d8b8c542cb1c8ded373ae3f7354fc4e1d6c21906c74fe39580a7fa139e3c700c",
         "signature": "d8b8c542cb1c8ded373ae3f7354fc4e1d6c21906c74fe39580a7fa139e3c700c",
         "affectsGlobalScope": false
@@ -491,42 +491,42 @@
         "signature": "182047f710c0d3d469b90f835bddfea5a67aab84d7a1bdd0fd398ddad84ba772",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/datapack/resourcestree.d.ts": {
+      "../node_modules/sandstone/datapack/resourcesTree.d.ts": {
         "version": "7ace0e61e0fadbc06cb2c9169eaa4aeaaae7c6dd7ee0134f70d392cc54d94934",
         "signature": "7ace0e61e0fadbc06cb2c9169eaa4aeaaae7c6dd7ee0134f70d392cc54d94934",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/resource.d.ts": {
+      "../node_modules/sandstone/resources/Resource.d.ts": {
         "version": "2a069f17ff5f228f65b0e9573e14fefa5ac748a56b92e9b22f83c5ec3e5ad2e1",
         "signature": "2a069f17ff5f228f65b0e9573e14fefa5ac748a56b92e9b22f83c5ec3e5ad2e1",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/advancement.d.ts": {
+      "../node_modules/sandstone/resources/Advancement.d.ts": {
         "version": "c82f45987ceaf0bd7fbf7335a532a710fb58de4f8f222c2d661ffc87394d01c2",
         "signature": "c82f45987ceaf0bd7fbf7335a532a710fb58de4f8f222c2d661ffc87394d01c2",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/loottable.d.ts": {
+      "../node_modules/sandstone/resources/LootTable.d.ts": {
         "version": "4aa496f980f8e2a876b12e3f61118adcff644d7df103f0476d8469450b476aae",
         "signature": "4aa496f980f8e2a876b12e3f61118adcff644d7df103f0476d8469450b476aae",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/tag.d.ts": {
+      "../node_modules/sandstone/resources/Tag.d.ts": {
         "version": "a43f36fcbfc3deef1b4f53508256d753d18751b18c9922e9bd5f18504fa49107",
         "signature": "a43f36fcbfc3deef1b4f53508256d753d18751b18c9922e9bd5f18504fa49107",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/mcfunctionclass.d.ts": {
+      "../node_modules/sandstone/resources/MCFunctionClass.d.ts": {
         "version": "0b7b13a2168c0eef39e308edbd28f4cc6fa10aaa54f762c00e16bc5062db8561",
         "signature": "0b7b13a2168c0eef39e308edbd28f4cc6fa10aaa54f762c00e16bc5062db8561",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/predicate.d.ts": {
+      "../node_modules/sandstone/resources/Predicate.d.ts": {
         "version": "c087ea74dd19cb3774637410981d67ed91b21bad608b1e33879d133230d37bb4",
         "signature": "c087ea74dd19cb3774637410981d67ed91b21bad608b1e33879d133230d37bb4",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/resources/recipe.d.ts": {
+      "../node_modules/sandstone/resources/Recipe.d.ts": {
         "version": "e5013091bb1db2f9797593656d73ea5fb4e23b6ea28b2ad598ac8b2d8933a71e",
         "signature": "e5013091bb1db2f9797593656d73ea5fb4e23b6ea28b2ad598ac8b2d8933a71e",
         "affectsGlobalScope": false
@@ -536,7 +536,7 @@
         "signature": "cffd78ea315d5cc76eeb54294d6162f31a6b8d403356b5470b509f473c01832f",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/variables/selector.d.ts": {
+      "../node_modules/sandstone/variables/Selector.d.ts": {
         "version": "133efcfd89fd94c3698b645dd3da04c921ab03d87ea2e70e0fbdcb355de3169b",
         "signature": "133efcfd89fd94c3698b645dd3da04c921ab03d87ea2e70e0fbdcb355de3169b",
         "affectsGlobalScope": false
@@ -551,7 +551,7 @@
         "signature": "c8e2a960f201a7c54f401330ae202fb8fd556a5ae0671112e31a5d92b591b25c",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/displayslots.d.ts": {
+      "../node_modules/sandstone/arguments/displaySlots.d.ts": {
         "version": "1f53851800fd51ce3a8d38e8e3cc13fdde346092baf016becf3a561810d842ee",
         "signature": "1f53851800fd51ce3a8d38e8e3cc13fdde346092baf016becf3a561810d842ee",
         "affectsGlobalScope": false
@@ -656,27 +656,27 @@
         "signature": "174cb1d82b58e25ad8b3a378decd277c91e53d614e9162a2dfab6f04cc8924ba",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts": {
+      "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts": {
         "version": "cf4f6eee55698845b8189002682a02a6f39ce93bc25c2cc6e609d3d01bbe9399",
         "signature": "cf4f6eee55698845b8189002682a02a6f39ce93bc25c2cc6e609d3d01bbe9399",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts": {
+      "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts": {
         "version": "25c7b3f72e508dd3206fff9b860e91aa3ff87f3a152bd2c544561d06881961b8",
         "signature": "25c7b3f72e508dd3206fff9b860e91aa3ff87f3a152bd2c544561d06881961b8",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts": {
+      "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts": {
         "version": "5d8e165eb62e2db368968ef33d68df5d044b5764780999588e375970e92fcacf",
         "signature": "5d8e165eb62e2db368968ef33d68df5d044b5764780999588e375970e92fcacf",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts": {
+      "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts": {
         "version": "e41c4d1beafb92043c26e9ed9ecabb6d1a208debf82a0a7128e2c6b994191a5a",
         "signature": "e41c4d1beafb92043c26e9ed9ecabb6d1a208debf82a0a7128e2c6b994191a5a",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/criteria/damagecriterion.d.ts": {
+      "../node_modules/sandstone/arguments/resources/criteria/DamageCriterion.d.ts": {
         "version": "e084786a0634f2988ad00f5ebe47c75d94bde5dec15fa304fad25db186ec7172",
         "signature": "e084786a0634f2988ad00f5ebe47c75d94bde5dec15fa304fad25db186ec7172",
         "affectsGlobalScope": false
@@ -691,7 +691,7 @@
         "signature": "88d40f4f5525710ac649a898b92635ac399e8b5e1875598fea88189fa5321714",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/advancementtriggers.d.ts": {
+      "../node_modules/sandstone/arguments/resources/AdvancementTriggers.d.ts": {
         "version": "2eb22630e72c5cbd9ccb5e904124b7f75df56ea3d4c1b87b0cf32bf4e22fce80",
         "signature": "2eb22630e72c5cbd9ccb5e904124b7f75df56ea3d4c1b87b0cf32bf4e22fce80",
         "affectsGlobalScope": false
@@ -701,7 +701,7 @@
         "signature": "e216bd1fc216504787a7b6a09c3895b1990e2883f12c61a4acc1838e6bb59ec5",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/arguments/resources/loottables.d.ts": {
+      "../node_modules/sandstone/arguments/resources/lootTables.d.ts": {
         "version": "1405883dc1f5f28f0377ac1de50425e55b76f9c3dfb390bee534ad0e8f48c17d",
         "signature": "1405883dc1f5f28f0377ac1de50425e55b76f9c3dfb390bee534ad0e8f48c17d",
         "affectsGlobalScope": false
@@ -731,62 +731,62 @@
         "signature": "d615b09ce368babaefee689611f902131a357db00a739b116c7cbd5626683bff",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/advancement.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Advancement.d.ts": {
         "version": "6ce761da1c9b3be92bb5b6249b0a515bf9fdbf5d360b1726d2b0c1bb5d9b63ab",
         "signature": "6ce761da1c9b3be92bb5b6249b0a515bf9fdbf5d360b1726d2b0c1bb5d9b63ab",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/attribute.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Attribute.d.ts": {
         "version": "597fc0475ba71927748f29277fce41fbbb766f6e2e19606d603ed8056adc1a96",
         "signature": "597fc0475ba71927748f29277fce41fbbb766f6e2e19606d603ed8056adc1a96",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/bossbar.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Bossbar.d.ts": {
         "version": "6c95479cd28ed87cd123ce02b77f21481b1102338f2ea0cd58240c38df37cbb6",
         "signature": "6c95479cd28ed87cd123ce02b77f21481b1102338f2ea0cd58240c38df37cbb6",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/clone.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Clone.d.ts": {
         "version": "c966e012c045a25fe639970c758c167fe77cfdd7fb9a3c584e7e4b0c9bb3b0d7",
         "signature": "c966e012c045a25fe639970c758c167fe77cfdd7fb9a3c584e7e4b0c9bb3b0d7",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/datacommand.d.ts": {
+      "../node_modules/sandstone/commands/implementations/DataCommand.d.ts": {
         "version": "c19ef4bab41d2c0f501518943ee9985546a9a63157668b12b7dcbac779d8c381",
         "signature": "c19ef4bab41d2c0f501518943ee9985546a9a63157668b12b7dcbac779d8c381",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/datapack.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Datapack.d.ts": {
         "version": "65699dd3c1f695caf70e71e452a17bd65d7bc185d07d00ba8f714abec3f42119",
         "signature": "65699dd3c1f695caf70e71e452a17bd65d7bc185d07d00ba8f714abec3f42119",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/debug.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Debug.d.ts": {
         "version": "7340444af9fcd0ca3f72af0230ea15eb7ce6d0ee3f2d97742dc64b35024520a7",
         "signature": "7340444af9fcd0ca3f72af0230ea15eb7ce6d0ee3f2d97742dc64b35024520a7",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/defaultgamemode.d.ts": {
+      "../node_modules/sandstone/commands/implementations/DefaultGamemode.d.ts": {
         "version": "6ecc97aa2edc0c543f5e517ba7a701355a0f45c8d84d05a73ee52ff95aa8eaae",
         "signature": "6ecc97aa2edc0c543f5e517ba7a701355a0f45c8d84d05a73ee52ff95aa8eaae",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/difficulty.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Difficulty.d.ts": {
         "version": "b29067ee675678a006b744f8a449e361b1dab7d203c2c95d85e45f2ba8cd30da",
         "signature": "b29067ee675678a006b744f8a449e361b1dab7d203c2c95d85e45f2ba8cd30da",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/effect.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Effect.d.ts": {
         "version": "77112bff6d691d7cf1e3153fa9e40d98f7b8844ef1a1f3477e6f5a600bd41d3b",
         "signature": "77112bff6d691d7cf1e3153fa9e40d98f7b8844ef1a1f3477e6f5a600bd41d3b",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/enchant.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Enchant.d.ts": {
         "version": "4d0425b9fb4c098ce1088bf7703a97de334e242f8376b0c228cb7d8050b41a86",
         "signature": "4d0425b9fb4c098ce1088bf7703a97de334e242f8376b0c228cb7d8050b41a86",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commandsonly.d.ts": {
+      "../node_modules/sandstone/commandsOnly.d.ts": {
         "version": "d18d66a599b85824401ecbaac5bb8471c521d087ff7161e6552691b4b735abd4",
         "signature": "d18d66a599b85824401ecbaac5bb8471c521d087ff7161e6552691b4b735abd4",
         "affectsGlobalScope": false
@@ -796,7 +796,7 @@
         "signature": "2dec3b7b3096eaca32c9622935039e161c2398150b84644410dd65763d18d120",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/flow/flow.d.ts": {
+      "../node_modules/sandstone/flow/Flow.d.ts": {
         "version": "1968245673e379ac5c6f8e26fb409a51b1edfa9fe8c62b8081536215c01d1f13",
         "signature": "1968245673e379ac5c6f8e26fb409a51b1edfa9fe8c62b8081536215c01d1f13",
         "affectsGlobalScope": false
@@ -806,107 +806,107 @@
         "signature": "0be36c7ce8cd89656f1a273bcf8582f8bb2e710c032ba146584160e7c90c5dd2",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/execute.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Execute.d.ts": {
         "version": "b5b0d22f54a0e4ab36c89b43c102dd98b6906289634866412ab4bae5f894202b",
         "signature": "b5b0d22f54a0e4ab36c89b43c102dd98b6906289634866412ab4bae5f894202b",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/experience.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Experience.d.ts": {
         "version": "c05b07ca42655e3a8f6472bc05547cafbc082e383ed27f32348da275415c2956",
         "signature": "c05b07ca42655e3a8f6472bc05547cafbc082e383ed27f32348da275415c2956",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/fill.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Fill.d.ts": {
         "version": "920ccec9d10ca0e06961e825d25b72d0e903d50451ab016e74d3e2fd9fea6a7f",
         "signature": "920ccec9d10ca0e06961e825d25b72d0e903d50451ab016e74d3e2fd9fea6a7f",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/forceload.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Forceload.d.ts": {
         "version": "6daa98cb546f95ae7c52587849213f51829a877be84d568184ca30945fc9e881",
         "signature": "6daa98cb546f95ae7c52587849213f51829a877be84d568184ca30945fc9e881",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/function.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Function.d.ts": {
         "version": "d7e3bbd1342c62d7c9f82b247b060c581452a46a23888b50d0c26c398bbbf987",
         "signature": "d7e3bbd1342c62d7c9f82b247b060c581452a46a23888b50d0c26c398bbbf987",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/gamerule.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Gamerule.d.ts": {
         "version": "a46622a2571072c0b74c7addafbf5dc1c5c0ce1673358acb1c2a08af57845b61",
         "signature": "a46622a2571072c0b74c7addafbf5dc1c5c0ce1673358acb1c2a08af57845b61",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/loot.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Loot.d.ts": {
         "version": "244494b8190c11c35c4520438366d4f6ba2b86e9fa3af83a4cfaafd9cb98364a",
         "signature": "244494b8190c11c35c4520438366d4f6ba2b86e9fa3af83a4cfaafd9cb98364a",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/particle.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Particle.d.ts": {
         "version": "0d72a684348dfa872d4cf25f9507e49043eeb7dfde6aed5cac46f5d90968022c",
         "signature": "0d72a684348dfa872d4cf25f9507e49043eeb7dfde6aed5cac46f5d90968022c",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/recipe.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Recipe.d.ts": {
         "version": "7de0ade349d7f94a618210590568258c7015386dc3a680597f776eecdaf90aa4",
         "signature": "7de0ade349d7f94a618210590568258c7015386dc3a680597f776eecdaf90aa4",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/replaceitem.d.ts": {
+      "../node_modules/sandstone/commands/implementations/ReplaceItem.d.ts": {
         "version": "79c794ca92d5c6ac7534107a5c47feabe9625f11a59f486a042c748269fbbdc1",
         "signature": "79c794ca92d5c6ac7534107a5c47feabe9625f11a59f486a042c748269fbbdc1",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/schedule.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Schedule.d.ts": {
         "version": "6300b092d9ca5986e1e4407a574e1f02c93c626921057f68441e8c91c3960220",
         "signature": "6300b092d9ca5986e1e4407a574e1f02c93c626921057f68441e8c91c3960220",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/scoreboard.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Scoreboard.d.ts": {
         "version": "a292539f622ef4d5651f5dbdcea1f344e39652598c470ee05195cb1f978c191f",
         "signature": "a292539f622ef4d5651f5dbdcea1f344e39652598c470ee05195cb1f978c191f",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/spreadplayers.d.ts": {
+      "../node_modules/sandstone/commands/implementations/SpreadPlayers.d.ts": {
         "version": "bab1f8ddb8496eca4449c1558bb57df7cc094b7ccdb0dc27309ac37bd6739c4d",
         "signature": "bab1f8ddb8496eca4449c1558bb57df7cc094b7ccdb0dc27309ac37bd6739c4d",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/tag.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Tag.d.ts": {
         "version": "ae5a2a0112f0e341ed4df18becfa2cd2258aa28a0caefcdfdcec535df8e4eb8e",
         "signature": "ae5a2a0112f0e341ed4df18becfa2cd2258aa28a0caefcdfdcec535df8e4eb8e",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/team.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Team.d.ts": {
         "version": "b8070efec04fa9def194d7d171b9cabf3bee25e33155a374a519b2ce43199019",
         "signature": "b8070efec04fa9def194d7d171b9cabf3bee25e33155a374a519b2ce43199019",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/teleport.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Teleport.d.ts": {
         "version": "52f9476c985165802c9a26f73582eb268b487ff93dfed175e8fa59023df2d812",
         "signature": "52f9476c985165802c9a26f73582eb268b487ff93dfed175e8fa59023df2d812",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/time.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Time.d.ts": {
         "version": "26d4e66e1d0e7181bd236c34241929497d22b7d1a61f79feab879f1861a1abf8",
         "signature": "26d4e66e1d0e7181bd236c34241929497d22b7d1a61f79feab879f1861a1abf8",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/title.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Title.d.ts": {
         "version": "db904642191879f90882767e100d2c49fc0315840a54e6c40eb7c649879a9e52",
         "signature": "db904642191879f90882767e100d2c49fc0315840a54e6c40eb7c649879a9e52",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/trigger.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Trigger.d.ts": {
         "version": "6b7c043ee3ec290ac2d0696eedee4e6c1e6ad471fae0aca7a83631709ec99a88",
         "signature": "6b7c043ee3ec290ac2d0696eedee4e6c1e6ad471fae0aca7a83631709ec99a88",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/weather.d.ts": {
+      "../node_modules/sandstone/commands/implementations/Weather.d.ts": {
         "version": "67e55f2d8dd70badf9c7569c7b64af0877ec8f102f694e7a2e8a9be569738218",
         "signature": "67e55f2d8dd70badf9c7569c7b64af0877ec8f102f694e7a2e8a9be569738218",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/implementations/worldborder.d.ts": {
+      "../node_modules/sandstone/commands/implementations/WorldBorder.d.ts": {
         "version": "7f25ef60d4d0998e9c59e96faa68f134f7bfb138da2fbb1fcab0862335b02d50",
         "signature": "7f25ef60d4d0998e9c59e96faa68f134f7bfb138da2fbb1fcab0862335b02d50",
         "affectsGlobalScope": false
@@ -916,7 +916,7 @@
         "signature": "2a88bca4c5dd41664647c5b5f563ea2d7f57337ad16bef652c6506a46e86e9b0",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/commands/commandsroot.d.ts": {
+      "../node_modules/sandstone/commands/CommandsRoot.d.ts": {
         "version": "5c29e78ec8b5f6f3d8ea7171af4e54d3fc9449948de0eb639bf55ca4b0b3a8fd",
         "signature": "5c29e78ec8b5f6f3d8ea7171af4e54d3fc9449948de0eb639bf55ca4b0b3a8fd",
         "affectsGlobalScope": false
@@ -926,17 +926,17 @@
         "signature": "c6895a1ca1e162f0a46b51811884eb6cd3dcdf308f350dc3e7bc2552ef0df169",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/datapack/basepath.d.ts": {
+      "../node_modules/sandstone/datapack/BasePath.d.ts": {
         "version": "7ebf0fb90ebb511ef56d743e911121ab7c820abfa167a35f4bbe764f8d6394b7",
         "signature": "7ebf0fb90ebb511ef56d743e911121ab7c820abfa167a35f4bbe764f8d6394b7",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/datapack/savedatapack.d.ts": {
+      "../node_modules/sandstone/datapack/saveDatapack.d.ts": {
         "version": "49f4f0626fc35136c40efaaf7a9d5b64e6cd3cfad861146964538b9f3797af62",
         "signature": "49f4f0626fc35136c40efaaf7a9d5b64e6cd3cfad861146964538b9f3797af62",
         "affectsGlobalScope": false
       },
-      "../node_modules/sandstone/datapack/datapack.d.ts": {
+      "../node_modules/sandstone/datapack/Datapack.d.ts": {
         "version": "9d077fa6a016df04ca5dbdeff136c976d469cb5cbbb56dd80d3da25868d792ef",
         "signature": "9d077fa6a016df04ca5dbdeff136c976d469cb5cbbb56dd80d3da25868d792ef",
         "affectsGlobalScope": false
@@ -956,9 +956,9 @@
         "signature": "74c17492e0b7c304db2e0a90b49ebcc235f3ef9e739797648eee09954bbc3670",
         "affectsGlobalScope": false
       },
-      "../src/line.ts": {
-        "version": "1b6a704b08851973c9f4ce177ec3b361009523d7275e350d7414c75c114ba3a6",
-        "signature": "c9482c6e7f1c80fade11f49e846df26eba384425c69106ad3e35e0bff3053bbf",
+      "../src/Line.ts": {
+        "version": "6c385fe04c55b56f031c8ebad091c7b8d94d72bd33bad47d945fa3fa474e08a7",
+        "signature": "dc6c12c06f1e1362a085352768d0dbb315c04c6ea9fa77488a6b13cf1345ad77",
         "affectsGlobalScope": false
       },
       "../node_modules/chalk/index.d.ts": {
@@ -968,12 +968,12 @@
       },
       "../src/index.ts": {
         "version": "6afbd3e5aed33ef20ff1394d825f509f64de0fad3a4fc624c7a978814a2def0a",
-        "signature": "6afbd3e5aed33ef20ff1394d825f509f64de0fad3a4fc624c7a978814a2def0a",
+        "signature": "750e15f7372621836f7c8f837cde8f31073089020d606947e998f70e4cf9b29b",
         "affectsGlobalScope": false
       },
-      "../src/scoreboard.ts": {
-        "version": "70a0131b1e045e9d1e2af5b7c580aca5ce7f1fdb18ec1f25773bbbf65dacabf9",
-        "signature": "6f3bba98d8ef629a12fa0eefe737b7654871a9812c514ecb143305627baaa8ba",
+      "../src/Scoreboard.ts": {
+        "version": "7d3062497f4197c9f1195913e14260307478d41e9aaf9bebb691b366574c34fe",
+        "signature": "024cb9bd960e13c36f2274e5ad90582eb3bba9436cf6aa6b5e4cc90c2fab5c06",
         "affectsGlobalScope": false
       }
     },
@@ -1231,7 +1231,7 @@
       ],
       "../node_modules/sandstone/arguments/basics.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/coords.d.ts": [
         "../node_modules/sandstone/variables/index.d.ts"
@@ -1254,10 +1254,10 @@
       "../node_modules/sandstone/arguments/index.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/coords.d.ts",
-        "../node_modules/sandstone/arguments/displayslots.d.ts",
+        "../node_modules/sandstone/arguments/displaySlots.d.ts",
         "../node_modules/sandstone/arguments/gamerules.d.ts",
         "../node_modules/sandstone/arguments/generated/index.d.ts",
-        "../node_modules/sandstone/arguments/jsontextcomponent.d.ts",
+        "../node_modules/sandstone/arguments/jsonTextComponent.d.ts",
         "../node_modules/sandstone/arguments/nbt.d.ts",
         "../node_modules/sandstone/arguments/objective.d.ts",
         "../node_modules/sandstone/arguments/range.d.ts",
@@ -1265,344 +1265,355 @@
         "../node_modules/sandstone/arguments/selector.d.ts",
         "../node_modules/sandstone/arguments/slots.d.ts"
       ],
-      "../node_modules/sandstone/arguments/jsontextcomponent.d.ts": [
+      "../node_modules/sandstone/arguments/jsonTextComponent.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/selector.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/coordinates.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/variables/Coordinates.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts"
       ],
       "../node_modules/sandstone/arguments/nbt.d.ts": [
-        "../node_modules/sandstone/variables/nbts.d.ts"
+        "../node_modules/sandstone/variables/NBTs.d.ts"
       ],
       "../node_modules/sandstone/arguments/objective.d.ts": [
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/arguments/resources/advancement.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/advancementtriggers.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/advancementtriggers.d.ts": [
+      "../node_modules/sandstone/arguments/resources/AdvancementTriggers.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
         "../node_modules/sandstone/arguments/resources/predicate.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/advancement.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/AdvancementTriggers.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/DamageCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/generated/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/basics.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/damagecriterion.d.ts": [
-        "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts": [
-        "../node_modules/sandstone/arguments/generated/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/criteria/index.d.ts": [
+        "../node_modules/sandstone/arguments/resources/criteria/DamageCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/damagecriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts": [
-        "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/index.d.ts": [
         "../node_modules/sandstone/arguments/resources/advancement.d.ts",
-        "../node_modules/sandstone/arguments/resources/loottables.d.ts",
+        "../node_modules/sandstone/arguments/resources/lootTables.d.ts",
         "../node_modules/sandstone/arguments/resources/predicate.d.ts",
         "../node_modules/sandstone/arguments/resources/recipe.d.ts",
         "../node_modules/sandstone/arguments/resources/tag.d.ts"
       ],
-      "../node_modules/sandstone/arguments/resources/loottables.d.ts": [
+      "../node_modules/sandstone/arguments/resources/lootTables.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/generated/index.d.ts",
-        "../node_modules/sandstone/arguments/jsontextcomponent.d.ts",
+        "../node_modules/sandstone/arguments/jsonTextComponent.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
         "../node_modules/sandstone/arguments/resources/predicate.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/predicate.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/recipe.d.ts": [
         "../node_modules/sandstone/arguments/generated/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/tag.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/selector.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/command.d.ts": [
-        "../node_modules/sandstone/commands/commandsroot.d.ts"
+      "../node_modules/sandstone/commands/Command.d.ts": [
+        "../node_modules/sandstone/commands/CommandsRoot.d.ts"
       ],
-      "../node_modules/sandstone/commands/commandsroot.d.ts": [
+      "../node_modules/sandstone/commands/CommandsRoot.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/implementations/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
         "../node_modules/sandstone/datapack/minecraft.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/advancement.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Advancement.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/attribute.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Attribute.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/bossbar.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Bossbar.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/clone.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Clone.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/datacommand.d.ts": [
+      "../node_modules/sandstone/commands/implementations/DataCommand.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/datapack.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts"
+      "../node_modules/sandstone/commands/implementations/Datapack.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/debug.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts"
+      "../node_modules/sandstone/commands/implementations/Debug.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/defaultgamemode.d.ts": [
+      "../node_modules/sandstone/commands/implementations/DefaultGamemode.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/difficulty.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Difficulty.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/effect.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Effect.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/enchant.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Enchant.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/execute.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Execute.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/commandsroot.d.ts",
-        "../node_modules/sandstone/commandsonly.d.ts",
+        "../node_modules/sandstone/commands/CommandsRoot.d.ts",
+        "../node_modules/sandstone/commandsOnly.d.ts",
         "../node_modules/sandstone/flow/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/experience.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Experience.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/fill.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Fill.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/forceload.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Forceload.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/function.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts",
+      "../node_modules/sandstone/commands/implementations/Function.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/gamerule.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Gamerule.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Loot.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Particle.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Recipe.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/ReplaceItem.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Schedule.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
+        "../node_modules/sandstone/resources/Tag.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Scoreboard.d.ts": [
+        "../node_modules/sandstone/arguments/displaySlots.d.ts",
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/SpreadPlayers.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Tag.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Team.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Teleport.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Time.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Title.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Trigger.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Weather.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/WorldBorder.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
       "../node_modules/sandstone/commands/implementations/index.d.ts": [
-        "../node_modules/sandstone/commands/implementations/advancement.d.ts",
-        "../node_modules/sandstone/commands/implementations/attribute.d.ts",
-        "../node_modules/sandstone/commands/implementations/bossbar.d.ts",
-        "../node_modules/sandstone/commands/implementations/clone.d.ts",
-        "../node_modules/sandstone/commands/implementations/datacommand.d.ts",
-        "../node_modules/sandstone/commands/implementations/datapack.d.ts",
-        "../node_modules/sandstone/commands/implementations/debug.d.ts",
-        "../node_modules/sandstone/commands/implementations/defaultgamemode.d.ts",
-        "../node_modules/sandstone/commands/implementations/difficulty.d.ts",
-        "../node_modules/sandstone/commands/implementations/effect.d.ts",
-        "../node_modules/sandstone/commands/implementations/enchant.d.ts",
-        "../node_modules/sandstone/commands/implementations/execute.d.ts",
-        "../node_modules/sandstone/commands/implementations/experience.d.ts",
-        "../node_modules/sandstone/commands/implementations/fill.d.ts",
-        "../node_modules/sandstone/commands/implementations/forceload.d.ts",
-        "../node_modules/sandstone/commands/implementations/function.d.ts",
-        "../node_modules/sandstone/commands/implementations/gamerule.d.ts",
-        "../node_modules/sandstone/commands/implementations/loot.d.ts",
-        "../node_modules/sandstone/commands/implementations/particle.d.ts",
-        "../node_modules/sandstone/commands/implementations/recipe.d.ts",
-        "../node_modules/sandstone/commands/implementations/replaceitem.d.ts",
-        "../node_modules/sandstone/commands/implementations/schedule.d.ts",
-        "../node_modules/sandstone/commands/implementations/scoreboard.d.ts",
-        "../node_modules/sandstone/commands/implementations/spreadplayers.d.ts",
-        "../node_modules/sandstone/commands/implementations/tag.d.ts",
-        "../node_modules/sandstone/commands/implementations/team.d.ts",
-        "../node_modules/sandstone/commands/implementations/teleport.d.ts",
-        "../node_modules/sandstone/commands/implementations/time.d.ts",
-        "../node_modules/sandstone/commands/implementations/title.d.ts",
-        "../node_modules/sandstone/commands/implementations/trigger.d.ts",
-        "../node_modules/sandstone/commands/implementations/weather.d.ts",
-        "../node_modules/sandstone/commands/implementations/worldborder.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/loot.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/particle.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/recipe.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/replaceitem.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/schedule.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
-        "../node_modules/sandstone/resources/tag.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/scoreboard.d.ts": [
-        "../node_modules/sandstone/arguments/displayslots.d.ts",
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/spreadplayers.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/tag.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/team.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/teleport.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/time.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/title.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/trigger.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/weather.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/worldborder.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/implementations/Advancement.d.ts",
+        "../node_modules/sandstone/commands/implementations/Attribute.d.ts",
+        "../node_modules/sandstone/commands/implementations/Bossbar.d.ts",
+        "../node_modules/sandstone/commands/implementations/Clone.d.ts",
+        "../node_modules/sandstone/commands/implementations/DataCommand.d.ts",
+        "../node_modules/sandstone/commands/implementations/Datapack.d.ts",
+        "../node_modules/sandstone/commands/implementations/Debug.d.ts",
+        "../node_modules/sandstone/commands/implementations/DefaultGamemode.d.ts",
+        "../node_modules/sandstone/commands/implementations/Difficulty.d.ts",
+        "../node_modules/sandstone/commands/implementations/Effect.d.ts",
+        "../node_modules/sandstone/commands/implementations/Enchant.d.ts",
+        "../node_modules/sandstone/commands/implementations/Execute.d.ts",
+        "../node_modules/sandstone/commands/implementations/Experience.d.ts",
+        "../node_modules/sandstone/commands/implementations/Fill.d.ts",
+        "../node_modules/sandstone/commands/implementations/Forceload.d.ts",
+        "../node_modules/sandstone/commands/implementations/Function.d.ts",
+        "../node_modules/sandstone/commands/implementations/Gamerule.d.ts",
+        "../node_modules/sandstone/commands/implementations/Loot.d.ts",
+        "../node_modules/sandstone/commands/implementations/Particle.d.ts",
+        "../node_modules/sandstone/commands/implementations/Recipe.d.ts",
+        "../node_modules/sandstone/commands/implementations/ReplaceItem.d.ts",
+        "../node_modules/sandstone/commands/implementations/Schedule.d.ts",
+        "../node_modules/sandstone/commands/implementations/Scoreboard.d.ts",
+        "../node_modules/sandstone/commands/implementations/SpreadPlayers.d.ts",
+        "../node_modules/sandstone/commands/implementations/Tag.d.ts",
+        "../node_modules/sandstone/commands/implementations/Team.d.ts",
+        "../node_modules/sandstone/commands/implementations/Teleport.d.ts",
+        "../node_modules/sandstone/commands/implementations/Time.d.ts",
+        "../node_modules/sandstone/commands/implementations/Title.d.ts",
+        "../node_modules/sandstone/commands/implementations/Trigger.d.ts",
+        "../node_modules/sandstone/commands/implementations/Weather.d.ts",
+        "../node_modules/sandstone/commands/implementations/WorldBorder.d.ts"
       ],
       "../node_modules/sandstone/commands/index.d.ts": [
-        "../node_modules/sandstone/commands/commandsroot.d.ts"
+        "../node_modules/sandstone/commands/CommandsRoot.d.ts"
       ],
-      "../node_modules/sandstone/commandsonly.d.ts": [
+      "../node_modules/sandstone/commandsOnly.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/implementations/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/datapack/basepath.d.ts": [
+      "../node_modules/sandstone/datapack/BasePath.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/index.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/datapack/datapack.d.ts": [
+      "../node_modules/sandstone/datapack/Datapack.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/datapack/basepath.d.ts",
+        "../node_modules/sandstone/datapack/BasePath.d.ts",
         "../node_modules/sandstone/datapack/minecraft.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts",
-        "../node_modules/sandstone/datapack/savedatapack.d.ts",
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts",
+        "../node_modules/sandstone/datapack/saveDatapack.d.ts",
         "../node_modules/sandstone/flow/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/resources/index.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
       ],
       "../node_modules/sandstone/datapack/index.d.ts": [
-        "../node_modules/sandstone/datapack/datapack.d.ts"
+        "../node_modules/sandstone/datapack/Datapack.d.ts"
       ],
-      "../node_modules/sandstone/datapack/resourcestree.d.ts": [
+      "../node_modules/sandstone/datapack/resourcesTree.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/minecraft.d.ts"
       ],
-      "../node_modules/sandstone/datapack/savedatapack.d.ts": [
+      "../node_modules/sandstone/datapack/saveDatapack.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts"
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts"
+      ],
+      "../node_modules/sandstone/flow/Flow.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/implementations/Execute.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/datapack/minecraft.d.ts",
+        "../node_modules/sandstone/flow/conditions.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
       ],
       "../node_modules/sandstone/flow/conditions.d.ts": [
         "../node_modules/sandstone/commands/index.d.ts",
@@ -1610,38 +1621,27 @@
         "../node_modules/sandstone/index.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/flow/flow.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/implementations/execute.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/datapack/minecraft.d.ts",
-        "../node_modules/sandstone/flow/conditions.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
-      ],
       "../node_modules/sandstone/flow/index.d.ts": [
-        "../node_modules/sandstone/flow/flow.d.ts"
+        "../node_modules/sandstone/flow/Flow.d.ts"
       ],
       "../node_modules/sandstone/index.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commandsonly.d.ts",
-        "../node_modules/sandstone/datapack/basepath.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
-        "../node_modules/sandstone/datapack/savedatapack.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/commandsOnly.d.ts",
+        "../node_modules/sandstone/datapack/BasePath.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
+        "../node_modules/sandstone/datapack/saveDatapack.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/index.d.ts",
         "../node_modules/sandstone/init.d.ts",
         "../node_modules/sandstone/resources/index.d.ts",
-        "../node_modules/sandstone/variables/coordinates.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts",
-        "../node_modules/sandstone/variables/nbts.d.ts",
-        "../node_modules/sandstone/variables/objective.d.ts",
-        "../node_modules/sandstone/variables/parsers.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts",
-        "../node_modules/sandstone/variables/selector.d.ts"
+        "../node_modules/sandstone/variables/Coordinates.d.ts",
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts",
+        "../node_modules/sandstone/variables/NBTs.d.ts",
+        "../node_modules/sandstone/variables/Objective.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/Selector.d.ts",
+        "../node_modules/sandstone/variables/parsers.d.ts"
       ],
       "../node_modules/sandstone/init.d.ts": [
         "../node_modules/sandstone/commands/index.d.ts",
@@ -1649,125 +1649,125 @@
         "../node_modules/sandstone/flow/index.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/resources/advancement.d.ts": [
+      "../node_modules/sandstone/resources/Advancement.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
       ],
-      "../node_modules/sandstone/resources/index.d.ts": [
-        "../node_modules/sandstone/resources/advancement.d.ts",
-        "../node_modules/sandstone/resources/loottable.d.ts",
-        "../node_modules/sandstone/resources/mcfunctionclass.d.ts",
-        "../node_modules/sandstone/resources/predicate.d.ts",
-        "../node_modules/sandstone/resources/recipe.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts",
-        "../node_modules/sandstone/resources/tag.d.ts"
-      ],
-      "../node_modules/sandstone/resources/loottable.d.ts": [
+      "../node_modules/sandstone/resources/LootTable.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
       ],
-      "../node_modules/sandstone/resources/mcfunctionclass.d.ts": [
+      "../node_modules/sandstone/resources/MCFunctionClass.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/tag.d.ts"
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Tag.d.ts"
       ],
-      "../node_modules/sandstone/resources/predicate.d.ts": [
+      "../node_modules/sandstone/resources/Predicate.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/resources/recipe.d.ts": [
+      "../node_modules/sandstone/resources/Recipe.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
       ],
-      "../node_modules/sandstone/resources/resource.d.ts": [
+      "../node_modules/sandstone/resources/Resource.d.ts": [
         "../node_modules/sandstone/commands/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts"
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts"
       ],
-      "../node_modules/sandstone/resources/tag.d.ts": [
+      "../node_modules/sandstone/resources/Tag.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
       ],
-      "../node_modules/sandstone/variables/abstractclasses.d.ts": [
-        "../node_modules/sandstone/arguments/jsontextcomponent.d.ts"
+      "../node_modules/sandstone/resources/index.d.ts": [
+        "../node_modules/sandstone/resources/Advancement.d.ts",
+        "../node_modules/sandstone/resources/LootTable.d.ts",
+        "../node_modules/sandstone/resources/MCFunctionClass.d.ts",
+        "../node_modules/sandstone/resources/Predicate.d.ts",
+        "../node_modules/sandstone/resources/Recipe.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts",
+        "../node_modules/sandstone/resources/Tag.d.ts"
       ],
-      "../node_modules/sandstone/variables/data.d.ts": [
+      "../node_modules/sandstone/variables/Data.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/implementations/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts"
       ],
-      "../node_modules/sandstone/variables/index.d.ts": [
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/coordinates.d.ts",
-        "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts",
-        "../node_modules/sandstone/variables/nbts.d.ts",
-        "../node_modules/sandstone/variables/objective.d.ts",
-        "../node_modules/sandstone/variables/parsers.d.ts",
-        "../node_modules/sandstone/variables/selector.d.ts"
-      ],
-      "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts": [
+      "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts"
       ],
-      "../node_modules/sandstone/variables/nbts.d.ts": [
+      "../node_modules/sandstone/variables/NBTs.d.ts": [
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/sandstone/arguments/index.d.ts"
       ],
-      "../node_modules/sandstone/variables/objective.d.ts": [
+      "../node_modules/sandstone/variables/Objective.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts"
+      ],
+      "../node_modules/sandstone/variables/Score.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/Objective.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
+      ],
+      "../node_modules/sandstone/variables/Selector.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts",
+        "../node_modules/sandstone/variables/NBTs.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts"
+      ],
+      "../node_modules/sandstone/variables/abstractClasses.d.ts": [
+        "../node_modules/sandstone/arguments/jsonTextComponent.d.ts"
+      ],
+      "../node_modules/sandstone/variables/index.d.ts": [
+        "../node_modules/sandstone/variables/Coordinates.d.ts",
+        "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts",
+        "../node_modules/sandstone/variables/NBTs.d.ts",
+        "../node_modules/sandstone/variables/Objective.d.ts",
+        "../node_modules/sandstone/variables/Selector.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts",
+        "../node_modules/sandstone/variables/parsers.d.ts"
       ],
       "../node_modules/sandstone/variables/parsers.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/variables/coordinates.d.ts"
+        "../node_modules/sandstone/variables/Coordinates.d.ts"
       ],
-      "../node_modules/sandstone/variables/score.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/objective.d.ts"
-      ],
-      "../node_modules/sandstone/variables/selector.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/nbts.d.ts"
-      ],
-      "../src/index.ts": [
-        "../src/line.ts",
-        "../src/scoreboard.ts"
-      ],
-      "../src/line.ts": [
+      "../src/Line.ts": [
         "../node_modules/sandstone/index.d.ts"
       ],
-      "../src/scoreboard.ts": [
+      "../src/Scoreboard.ts": [
         "../node_modules/chalk/index.d.ts",
         "../node_modules/sandstone/index.d.ts",
         "../node_modules/sandstone/init.d.ts",
         "../src/index.ts"
+      ],
+      "../src/index.ts": [
+        "../src/Line.ts",
+        "../src/Scoreboard.ts"
       ]
     },
     "exportedModulesMap": {
@@ -2035,18 +2035,24 @@
         "../node_modules/sandstone/arguments/selector.d.ts",
         "../node_modules/sandstone/arguments/slots.d.ts"
       ],
-      "../node_modules/sandstone/arguments/jsontextcomponent.d.ts": [
+      "../node_modules/sandstone/arguments/jsonTextComponent.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/selector.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/coordinates.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/variables/Coordinates.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts"
       ],
       "../node_modules/sandstone/arguments/nbt.d.ts": [
         "../node_modules/sandstone/variables/nbts.d.ts"
       ],
       "../node_modules/sandstone/arguments/objective.d.ts": [
         "../node_modules/sandstone/variables/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/AdvancementTriggers.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/predicate.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/advancement.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
@@ -2055,29 +2061,39 @@
         "../node_modules/sandstone/generaltypes.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/arguments/resources/advancementtriggers.d.ts": [
+      "../node_modules/sandstone/arguments/resources/criteria/DamageCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/generated/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/predicate.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts"
+      ],
+      "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts": [
+        "../node_modules/sandstone/arguments/basics.d.ts",
+        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts",
         "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/damagecriterion.d.ts": [
-        "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts": [
-        "../node_modules/sandstone/arguments/generated/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/criteria/index.d.ts": [
         "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
@@ -2088,22 +2104,6 @@
         "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
       ],
-      "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts"
-      ],
-      "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts": [
-        "../node_modules/sandstone/arguments/basics.d.ts",
-        "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts"
-      ],
       "../node_modules/sandstone/arguments/resources/index.d.ts": [
         "../node_modules/sandstone/arguments/resources/advancement.d.ts",
         "../node_modules/sandstone/arguments/resources/loottables.d.ts",
@@ -2111,13 +2111,13 @@
         "../node_modules/sandstone/arguments/resources/recipe.d.ts",
         "../node_modules/sandstone/arguments/resources/tag.d.ts"
       ],
-      "../node_modules/sandstone/arguments/resources/loottables.d.ts": [
+      "../node_modules/sandstone/arguments/resources/lootTables.d.ts": [
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/arguments/generated/index.d.ts",
-        "../node_modules/sandstone/arguments/jsontextcomponent.d.ts",
+        "../node_modules/sandstone/arguments/jsonTextComponent.d.ts",
         "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
         "../node_modules/sandstone/arguments/resources/predicate.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
       "../node_modules/sandstone/arguments/resources/predicate.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
@@ -2139,95 +2139,163 @@
         "../node_modules/sandstone/arguments/basics.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/command.d.ts": [
-        "../node_modules/sandstone/commands/commandsroot.d.ts"
+      "../node_modules/sandstone/commands/Command.d.ts": [
+        "../node_modules/sandstone/commands/CommandsRoot.d.ts"
       ],
-      "../node_modules/sandstone/commands/commandsroot.d.ts": [
+      "../node_modules/sandstone/commands/CommandsRoot.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/implementations/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
         "../node_modules/sandstone/datapack/minecraft.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/advancement.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Advancement.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/attribute.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Attribute.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/bossbar.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Bossbar.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/clone.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Clone.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/datacommand.d.ts": [
+      "../node_modules/sandstone/commands/implementations/DataCommand.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/datapack.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts"
+      "../node_modules/sandstone/commands/implementations/Datapack.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/debug.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts"
+      "../node_modules/sandstone/commands/implementations/Debug.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/defaultgamemode.d.ts": [
+      "../node_modules/sandstone/commands/implementations/DefaultGamemode.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/difficulty.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Difficulty.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/effect.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Effect.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/enchant.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Enchant.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/execute.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Execute.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/commandsroot.d.ts",
-        "../node_modules/sandstone/commandsonly.d.ts",
+        "../node_modules/sandstone/commands/CommandsRoot.d.ts",
+        "../node_modules/sandstone/commandsOnly.d.ts",
         "../node_modules/sandstone/flow/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/experience.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Experience.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/fill.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Fill.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/forceload.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Forceload.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/function.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts",
+      "../node_modules/sandstone/commands/implementations/Function.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/gamerule.d.ts": [
+      "../node_modules/sandstone/commands/implementations/Gamerule.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Loot.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Particle.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Recipe.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/ReplaceItem.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Schedule.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
+        "../node_modules/sandstone/resources/Tag.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Scoreboard.d.ts": [
+        "../node_modules/sandstone/arguments/displaySlots.d.ts",
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/SpreadPlayers.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Tag.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Team.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Teleport.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Time.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Title.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Trigger.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/Weather.d.ts": [
+        "../node_modules/sandstone/commands/Command.d.ts"
+      ],
+      "../node_modules/sandstone/commands/implementations/WorldBorder.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/Command.d.ts"
       ],
       "../node_modules/sandstone/commands/implementations/index.d.ts": [
         "../node_modules/sandstone/commands/implementations/advancement.d.ts",
@@ -2263,133 +2331,65 @@
         "../node_modules/sandstone/commands/implementations/weather.d.ts",
         "../node_modules/sandstone/commands/implementations/worldborder.d.ts"
       ],
-      "../node_modules/sandstone/commands/implementations/loot.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/particle.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/recipe.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/replaceitem.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/schedule.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
-        "../node_modules/sandstone/resources/tag.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/scoreboard.d.ts": [
-        "../node_modules/sandstone/arguments/displayslots.d.ts",
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/spreadplayers.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/tag.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/team.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/teleport.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/time.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/title.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/trigger.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/weather.d.ts": [
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
-      "../node_modules/sandstone/commands/implementations/worldborder.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/command.d.ts"
-      ],
       "../node_modules/sandstone/commands/index.d.ts": [
         "../node_modules/sandstone/commands/commandsroot.d.ts"
       ],
-      "../node_modules/sandstone/commandsonly.d.ts": [
+      "../node_modules/sandstone/commandsOnly.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/implementations/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/datapack/basepath.d.ts": [
+      "../node_modules/sandstone/datapack/BasePath.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/index.d.ts",
         "../node_modules/sandstone/resources/index.d.ts"
       ],
-      "../node_modules/sandstone/datapack/datapack.d.ts": [
+      "../node_modules/sandstone/datapack/Datapack.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/datapack/basepath.d.ts",
+        "../node_modules/sandstone/datapack/BasePath.d.ts",
         "../node_modules/sandstone/datapack/minecraft.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts",
-        "../node_modules/sandstone/datapack/savedatapack.d.ts",
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts",
+        "../node_modules/sandstone/datapack/saveDatapack.d.ts",
         "../node_modules/sandstone/flow/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
         "../node_modules/sandstone/resources/index.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
       ],
       "../node_modules/sandstone/datapack/index.d.ts": [
         "../node_modules/sandstone/datapack/datapack.d.ts"
       ],
-      "../node_modules/sandstone/datapack/resourcestree.d.ts": [
+      "../node_modules/sandstone/datapack/resourcesTree.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/minecraft.d.ts"
       ],
-      "../node_modules/sandstone/datapack/savedatapack.d.ts": [
+      "../node_modules/sandstone/datapack/saveDatapack.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts"
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts"
+      ],
+      "../node_modules/sandstone/flow/Flow.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/implementations/Execute.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/datapack/minecraft.d.ts",
+        "../node_modules/sandstone/flow/conditions.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
       ],
       "../node_modules/sandstone/flow/conditions.d.ts": [
         "../node_modules/sandstone/commands/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
         "../node_modules/sandstone/index.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
-      ],
-      "../node_modules/sandstone/flow/flow.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/implementations/execute.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/datapack/minecraft.d.ts",
-        "../node_modules/sandstone/flow/conditions.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
       ],
       "../node_modules/sandstone/flow/index.d.ts": [
         "../node_modules/sandstone/flow/flow.d.ts"
@@ -2419,11 +2419,49 @@
         "../node_modules/sandstone/flow/index.d.ts",
         "../node_modules/sandstone/variables/index.d.ts"
       ],
-      "../node_modules/sandstone/resources/advancement.d.ts": [
+      "../node_modules/sandstone/resources/Advancement.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
+      ],
+      "../node_modules/sandstone/resources/LootTable.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
+      ],
+      "../node_modules/sandstone/resources/MCFunctionClass.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/datapack/Datapack.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Tag.d.ts"
+      ],
+      "../node_modules/sandstone/resources/Predicate.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
+      ],
+      "../node_modules/sandstone/resources/Recipe.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
+      ],
+      "../node_modules/sandstone/resources/Resource.d.ts": [
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/datapack/resourcesTree.d.ts"
+      ],
+      "../node_modules/sandstone/resources/Tag.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/datapack/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/Resource.d.ts"
       ],
       "../node_modules/sandstone/resources/index.d.ts": [
         "../node_modules/sandstone/resources/advancement.d.ts",
@@ -2434,54 +2472,46 @@
         "../node_modules/sandstone/resources/resource.d.ts",
         "../node_modules/sandstone/resources/tag.d.ts"
       ],
-      "../node_modules/sandstone/resources/loottable.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
-      ],
-      "../node_modules/sandstone/resources/mcfunctionclass.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/datapack.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/tag.d.ts"
-      ],
-      "../node_modules/sandstone/resources/predicate.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts"
-      ],
-      "../node_modules/sandstone/resources/recipe.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
-      ],
-      "../node_modules/sandstone/resources/resource.d.ts": [
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/datapack/resourcestree.d.ts"
-      ],
-      "../node_modules/sandstone/resources/tag.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/resource.d.ts"
-      ],
-      "../node_modules/sandstone/variables/abstractclasses.d.ts": [
-        "../node_modules/sandstone/arguments/jsontextcomponent.d.ts"
-      ],
-      "../node_modules/sandstone/variables/data.d.ts": [
+      "../node_modules/sandstone/variables/Data.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/commands/implementations/index.d.ts",
         "../node_modules/sandstone/commands/index.d.ts",
         "../node_modules/sandstone/datapack/index.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
+        "../node_modules/sandstone/variables/Score.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts"
+      ],
+      "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts"
+      ],
+      "../node_modules/sandstone/variables/NBTs.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/sandstone/arguments/index.d.ts"
+      ],
+      "../node_modules/sandstone/variables/Objective.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts",
+        "../node_modules/sandstone/variables/Score.d.ts"
+      ],
+      "../node_modules/sandstone/variables/Score.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/variables/Data.d.ts",
+        "../node_modules/sandstone/variables/Objective.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts",
+        "../node_modules/sandstone/variables/index.d.ts"
+      ],
+      "../node_modules/sandstone/variables/Selector.d.ts": [
+        "../node_modules/sandstone/arguments/index.d.ts",
+        "../node_modules/sandstone/commands/index.d.ts",
+        "../node_modules/sandstone/generalTypes.d.ts",
+        "../node_modules/sandstone/resources/index.d.ts",
+        "../node_modules/sandstone/variables/NBTs.d.ts",
+        "../node_modules/sandstone/variables/abstractClasses.d.ts"
+      ],
+      "../node_modules/sandstone/variables/abstractClasses.d.ts": [
+        "../node_modules/sandstone/arguments/jsonTextComponent.d.ts"
       ],
       "../node_modules/sandstone/variables/index.d.ts": [
         "../node_modules/sandstone/variables/abstractclasses.d.ts",
@@ -2492,91 +2522,23 @@
         "../node_modules/sandstone/variables/parsers.d.ts",
         "../node_modules/sandstone/variables/selector.d.ts"
       ],
-      "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts"
-      ],
-      "../node_modules/sandstone/variables/nbts.d.ts": [
-        "../node_modules/@types/node/index.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/sandstone/arguments/index.d.ts"
-      ],
-      "../node_modules/sandstone/variables/objective.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts",
-        "../node_modules/sandstone/variables/score.d.ts"
-      ],
       "../node_modules/sandstone/variables/parsers.d.ts": [
         "../node_modules/sandstone/arguments/index.d.ts",
         "../node_modules/sandstone/variables/coordinates.d.ts"
       ],
-      "../node_modules/sandstone/variables/score.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/data.d.ts",
-        "../node_modules/sandstone/variables/index.d.ts",
-        "../node_modules/sandstone/variables/objective.d.ts"
-      ],
-      "../node_modules/sandstone/variables/selector.d.ts": [
-        "../node_modules/sandstone/arguments/index.d.ts",
-        "../node_modules/sandstone/commands/index.d.ts",
-        "../node_modules/sandstone/generaltypes.d.ts",
-        "../node_modules/sandstone/resources/index.d.ts",
-        "../node_modules/sandstone/variables/abstractclasses.d.ts",
-        "../node_modules/sandstone/variables/nbts.d.ts"
-      ],
-      "../src/index.ts": [
-        "../src/line.ts",
-        "../src/scoreboard.ts"
-      ],
-      "../src/line.ts": [
+      "../src/Line.ts": [
         "../node_modules/sandstone/index.d.ts"
       ],
-      "../src/scoreboard.ts": [
+      "../src/Scoreboard.ts": [
         "../node_modules/sandstone/index.d.ts",
         "../src/index.ts"
+      ],
+      "../src/index.ts": [
+        "../src/Line.ts",
+        "../src/Scoreboard.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2016.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.array.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.object.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.string.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.bigint.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.intl.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.promise.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.string.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.es5.d.ts",
-      "../../../appdata/roaming/npm-cache/_npx/61444/node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "../node_modules/@types/node/assert.d.ts",
       "../node_modules/@types/node/async_hooks.d.ts",
       "../node_modules/@types/node/base.d.ts",
@@ -2626,7 +2588,7 @@
       "../node_modules/chalk/index.d.ts",
       "../node_modules/sandstone/arguments/basics.d.ts",
       "../node_modules/sandstone/arguments/coords.d.ts",
-      "../node_modules/sandstone/arguments/displayslots.d.ts",
+      "../node_modules/sandstone/arguments/displaySlots.d.ts",
       "../node_modules/sandstone/arguments/gamerules.d.ts",
       "../node_modules/sandstone/arguments/generated/attributes.d.ts",
       "../node_modules/sandstone/arguments/generated/biome.d.ts",
@@ -2643,97 +2605,135 @@
       "../node_modules/sandstone/arguments/generated/sound_event.d.ts",
       "../node_modules/sandstone/arguments/generated/structures.d.ts",
       "../node_modules/sandstone/arguments/index.d.ts",
-      "../node_modules/sandstone/arguments/jsontextcomponent.d.ts",
+      "../node_modules/sandstone/arguments/jsonTextComponent.d.ts",
       "../node_modules/sandstone/arguments/nbt.d.ts",
       "../node_modules/sandstone/arguments/objective.d.ts",
       "../node_modules/sandstone/arguments/range.d.ts",
+      "../node_modules/sandstone/arguments/resources/AdvancementTriggers.d.ts",
       "../node_modules/sandstone/arguments/resources/advancement.d.ts",
-      "../node_modules/sandstone/arguments/resources/advancementtriggers.d.ts",
+      "../node_modules/sandstone/arguments/resources/criteria/DamageCriterion.d.ts",
+      "../node_modules/sandstone/arguments/resources/criteria/EntityCriterion.d.ts",
+      "../node_modules/sandstone/arguments/resources/criteria/ItemCriterion.d.ts",
+      "../node_modules/sandstone/arguments/resources/criteria/LocationCriterion.d.ts",
+      "../node_modules/sandstone/arguments/resources/criteria/PlayerCriterion.d.ts",
       "../node_modules/sandstone/arguments/resources/criteria/basic_criteria.d.ts",
-      "../node_modules/sandstone/arguments/resources/criteria/damagecriterion.d.ts",
-      "../node_modules/sandstone/arguments/resources/criteria/entitycriterion.d.ts",
       "../node_modules/sandstone/arguments/resources/criteria/index.d.ts",
-      "../node_modules/sandstone/arguments/resources/criteria/itemcriterion.d.ts",
-      "../node_modules/sandstone/arguments/resources/criteria/locationcriterion.d.ts",
-      "../node_modules/sandstone/arguments/resources/criteria/playercriterion.d.ts",
       "../node_modules/sandstone/arguments/resources/criteria/utils.d.ts",
       "../node_modules/sandstone/arguments/resources/index.d.ts",
-      "../node_modules/sandstone/arguments/resources/loottables.d.ts",
+      "../node_modules/sandstone/arguments/resources/lootTables.d.ts",
       "../node_modules/sandstone/arguments/resources/predicate.d.ts",
       "../node_modules/sandstone/arguments/resources/recipe.d.ts",
       "../node_modules/sandstone/arguments/resources/tag.d.ts",
       "../node_modules/sandstone/arguments/selector.d.ts",
       "../node_modules/sandstone/arguments/slots.d.ts",
-      "../node_modules/sandstone/commands/command.d.ts",
-      "../node_modules/sandstone/commands/commandsroot.d.ts",
-      "../node_modules/sandstone/commands/implementations/advancement.d.ts",
-      "../node_modules/sandstone/commands/implementations/attribute.d.ts",
-      "../node_modules/sandstone/commands/implementations/bossbar.d.ts",
-      "../node_modules/sandstone/commands/implementations/clone.d.ts",
-      "../node_modules/sandstone/commands/implementations/datacommand.d.ts",
-      "../node_modules/sandstone/commands/implementations/datapack.d.ts",
-      "../node_modules/sandstone/commands/implementations/debug.d.ts",
-      "../node_modules/sandstone/commands/implementations/defaultgamemode.d.ts",
-      "../node_modules/sandstone/commands/implementations/difficulty.d.ts",
-      "../node_modules/sandstone/commands/implementations/effect.d.ts",
-      "../node_modules/sandstone/commands/implementations/enchant.d.ts",
-      "../node_modules/sandstone/commands/implementations/execute.d.ts",
-      "../node_modules/sandstone/commands/implementations/experience.d.ts",
-      "../node_modules/sandstone/commands/implementations/fill.d.ts",
-      "../node_modules/sandstone/commands/implementations/forceload.d.ts",
-      "../node_modules/sandstone/commands/implementations/function.d.ts",
-      "../node_modules/sandstone/commands/implementations/gamerule.d.ts",
+      "../node_modules/sandstone/commands/Command.d.ts",
+      "../node_modules/sandstone/commands/CommandsRoot.d.ts",
+      "../node_modules/sandstone/commands/implementations/Advancement.d.ts",
+      "../node_modules/sandstone/commands/implementations/Attribute.d.ts",
+      "../node_modules/sandstone/commands/implementations/Bossbar.d.ts",
+      "../node_modules/sandstone/commands/implementations/Clone.d.ts",
+      "../node_modules/sandstone/commands/implementations/DataCommand.d.ts",
+      "../node_modules/sandstone/commands/implementations/Datapack.d.ts",
+      "../node_modules/sandstone/commands/implementations/Debug.d.ts",
+      "../node_modules/sandstone/commands/implementations/DefaultGamemode.d.ts",
+      "../node_modules/sandstone/commands/implementations/Difficulty.d.ts",
+      "../node_modules/sandstone/commands/implementations/Effect.d.ts",
+      "../node_modules/sandstone/commands/implementations/Enchant.d.ts",
+      "../node_modules/sandstone/commands/implementations/Execute.d.ts",
+      "../node_modules/sandstone/commands/implementations/Experience.d.ts",
+      "../node_modules/sandstone/commands/implementations/Fill.d.ts",
+      "../node_modules/sandstone/commands/implementations/Forceload.d.ts",
+      "../node_modules/sandstone/commands/implementations/Function.d.ts",
+      "../node_modules/sandstone/commands/implementations/Gamerule.d.ts",
+      "../node_modules/sandstone/commands/implementations/Loot.d.ts",
+      "../node_modules/sandstone/commands/implementations/Particle.d.ts",
+      "../node_modules/sandstone/commands/implementations/Recipe.d.ts",
+      "../node_modules/sandstone/commands/implementations/ReplaceItem.d.ts",
+      "../node_modules/sandstone/commands/implementations/Schedule.d.ts",
+      "../node_modules/sandstone/commands/implementations/Scoreboard.d.ts",
+      "../node_modules/sandstone/commands/implementations/SpreadPlayers.d.ts",
+      "../node_modules/sandstone/commands/implementations/Tag.d.ts",
+      "../node_modules/sandstone/commands/implementations/Team.d.ts",
+      "../node_modules/sandstone/commands/implementations/Teleport.d.ts",
+      "../node_modules/sandstone/commands/implementations/Time.d.ts",
+      "../node_modules/sandstone/commands/implementations/Title.d.ts",
+      "../node_modules/sandstone/commands/implementations/Trigger.d.ts",
+      "../node_modules/sandstone/commands/implementations/Weather.d.ts",
+      "../node_modules/sandstone/commands/implementations/WorldBorder.d.ts",
       "../node_modules/sandstone/commands/implementations/index.d.ts",
-      "../node_modules/sandstone/commands/implementations/loot.d.ts",
-      "../node_modules/sandstone/commands/implementations/particle.d.ts",
-      "../node_modules/sandstone/commands/implementations/recipe.d.ts",
-      "../node_modules/sandstone/commands/implementations/replaceitem.d.ts",
-      "../node_modules/sandstone/commands/implementations/schedule.d.ts",
-      "../node_modules/sandstone/commands/implementations/scoreboard.d.ts",
-      "../node_modules/sandstone/commands/implementations/spreadplayers.d.ts",
-      "../node_modules/sandstone/commands/implementations/tag.d.ts",
-      "../node_modules/sandstone/commands/implementations/team.d.ts",
-      "../node_modules/sandstone/commands/implementations/teleport.d.ts",
-      "../node_modules/sandstone/commands/implementations/time.d.ts",
-      "../node_modules/sandstone/commands/implementations/title.d.ts",
-      "../node_modules/sandstone/commands/implementations/trigger.d.ts",
-      "../node_modules/sandstone/commands/implementations/weather.d.ts",
-      "../node_modules/sandstone/commands/implementations/worldborder.d.ts",
       "../node_modules/sandstone/commands/index.d.ts",
-      "../node_modules/sandstone/commandsonly.d.ts",
-      "../node_modules/sandstone/datapack/basepath.d.ts",
-      "../node_modules/sandstone/datapack/datapack.d.ts",
+      "../node_modules/sandstone/commandsOnly.d.ts",
+      "../node_modules/sandstone/datapack/BasePath.d.ts",
+      "../node_modules/sandstone/datapack/Datapack.d.ts",
       "../node_modules/sandstone/datapack/index.d.ts",
       "../node_modules/sandstone/datapack/minecraft.d.ts",
-      "../node_modules/sandstone/datapack/resourcestree.d.ts",
-      "../node_modules/sandstone/datapack/savedatapack.d.ts",
+      "../node_modules/sandstone/datapack/resourcesTree.d.ts",
+      "../node_modules/sandstone/datapack/saveDatapack.d.ts",
+      "../node_modules/sandstone/flow/Flow.d.ts",
       "../node_modules/sandstone/flow/conditions.d.ts",
-      "../node_modules/sandstone/flow/flow.d.ts",
       "../node_modules/sandstone/flow/index.d.ts",
-      "../node_modules/sandstone/generaltypes.d.ts",
+      "../node_modules/sandstone/generalTypes.d.ts",
       "../node_modules/sandstone/index.d.ts",
       "../node_modules/sandstone/init.d.ts",
-      "../node_modules/sandstone/resources/advancement.d.ts",
+      "../node_modules/sandstone/resources/Advancement.d.ts",
+      "../node_modules/sandstone/resources/LootTable.d.ts",
+      "../node_modules/sandstone/resources/MCFunctionClass.d.ts",
+      "../node_modules/sandstone/resources/Predicate.d.ts",
+      "../node_modules/sandstone/resources/Recipe.d.ts",
+      "../node_modules/sandstone/resources/Resource.d.ts",
+      "../node_modules/sandstone/resources/Tag.d.ts",
       "../node_modules/sandstone/resources/index.d.ts",
-      "../node_modules/sandstone/resources/loottable.d.ts",
-      "../node_modules/sandstone/resources/mcfunctionclass.d.ts",
-      "../node_modules/sandstone/resources/predicate.d.ts",
-      "../node_modules/sandstone/resources/recipe.d.ts",
-      "../node_modules/sandstone/resources/resource.d.ts",
-      "../node_modules/sandstone/resources/tag.d.ts",
-      "../node_modules/sandstone/variables/abstractclasses.d.ts",
-      "../node_modules/sandstone/variables/coordinates.d.ts",
-      "../node_modules/sandstone/variables/data.d.ts",
+      "../node_modules/sandstone/variables/Coordinates.d.ts",
+      "../node_modules/sandstone/variables/Data.d.ts",
+      "../node_modules/sandstone/variables/JSONTextComponentClass.d.ts",
+      "../node_modules/sandstone/variables/NBTs.d.ts",
+      "../node_modules/sandstone/variables/Objective.d.ts",
+      "../node_modules/sandstone/variables/Score.d.ts",
+      "../node_modules/sandstone/variables/Selector.d.ts",
+      "../node_modules/sandstone/variables/abstractClasses.d.ts",
       "../node_modules/sandstone/variables/index.d.ts",
-      "../node_modules/sandstone/variables/jsontextcomponentclass.d.ts",
-      "../node_modules/sandstone/variables/nbts.d.ts",
-      "../node_modules/sandstone/variables/objective.d.ts",
       "../node_modules/sandstone/variables/parsers.d.ts",
-      "../node_modules/sandstone/variables/score.d.ts",
-      "../node_modules/sandstone/variables/selector.d.ts",
-      "../src/index.ts",
-      "../src/line.ts",
-      "../src/scoreboard.ts"
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../src/Line.ts",
+      "../src/Scoreboard.ts",
+      "../src/index.ts"
     ]
   },
   "version": "4.2.4"

@@ -24,6 +24,9 @@ const sandstone_1 = require("sandstone");
 const init_1 = require("sandstone/init");
 const chalk = __importStar(require("chalk"));
 class Scoreboard {
+    /**
+     * @param displayName A JSONTextComponent containing the text information for the default scoreboard display
+     */
     constructor(displayName) {
         this.animated = false;
         this.animationState = sandstone_1.Variable(0);
@@ -104,17 +107,26 @@ class Scoreboard {
             sandstone_1.scoreboard.objectives.add(this.objectiveName, 'dummy', this.displayName);
         }
     }
-    removeRawLine(score) {
-        for (const lineKey in this.lines) {
-            if (this.lines[lineKey].score > score) {
-                this.lines[lineKey].score--;
-            }
-            if (this.lines[lineKey].score === score) {
-                delete this.lines[lineKey];
-                break;
-            }
+    render() {
+        var _a;
+        this.ready();
+        sandstone_1.scoreboard.players.reset('*', this.objectiveName);
+        let generatedTeams = 0;
+        for (const [name, { line, nameIndex, score }] of Object.entries(this.lines)) {
+            sandstone_1.team.add(`anon_${init_1.dataPack.packUid}_${generatedTeams}`);
+            sandstone_1.team.modify(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, 'prefix', JSON.stringify(line.slice(0, nameIndex)));
+            sandstone_1.team.modify(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, 'color', (_a = line[nameIndex].color) !== null && _a !== void 0 ? _a : 'white');
+            sandstone_1.team.modify(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, 'suffix', JSON.stringify(line.slice(nameIndex + 1)));
+            sandstone_1.team.join(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, name);
+            sandstone_1.scoreboard.players.set(name, this.objectiveName, score);
+            generatedTeams++;
         }
     }
+    /**
+     * Adds a Line to the scoreboard
+     * @param line The Line instance to add to the scoreboard
+     * @param priority The priority for how high up your line appears in the scoreboard
+     */
     addLine(line, priority) {
         let nameIndex = this.addRawLine(line._getRawData(), priority !== null && priority !== void 0 ? priority : 0);
         line._onUpdate((cancelListener) => {
@@ -140,6 +152,10 @@ class Scoreboard {
             this.render();
         }
     }
+    /**
+     * Animates the scoreboard display through an array of specified keyframes
+     * @param keyframes An array of JSONTextComponents with the added (optional) duration parameter, specified in ticks
+     */
     animate(keyframes) {
         this.animated = true;
         sandstone_1.MCFunction(`custom_scoreboards/${this.index}/animate`, () => {
@@ -157,6 +173,10 @@ class Scoreboard {
             }
         }, { onConflict: 'replace' });
     }
+    /**
+     * Hides the scoreboard
+     * @param teamColor The color of the team to hide the scoreboard from
+     */
     hide(teamColor) {
         this.ready();
         sandstone_1.scoreboard.objectives.setDisplay((teamColor !== undefined) ? `sidebar.team.${teamColor}` : ('sidebar'));
@@ -166,6 +186,10 @@ class Scoreboard {
             this.animationState.set(0);
         }
     }
+    /**
+     * Removes all matching Line instances from the scoreboard
+     * @param line The Line instance to remove from the scoreboard
+     */
     removeLine(line) {
         const currentId = line._getId();
         Object.entries(this.lines).forEach(([nameIndex, storedLine]) => {
@@ -178,21 +202,10 @@ class Scoreboard {
             this.render();
         }
     }
-    render() {
-        var _a;
-        this.ready();
-        sandstone_1.scoreboard.players.reset('*', this.objectiveName);
-        let generatedTeams = 0;
-        for (const [name, { line, nameIndex, score }] of Object.entries(this.lines)) {
-            sandstone_1.team.add(`anon_${init_1.dataPack.packUid}_${generatedTeams}`);
-            sandstone_1.team.modify(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, 'prefix', JSON.stringify(line.slice(0, nameIndex)));
-            sandstone_1.team.modify(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, 'color', (_a = line[nameIndex].color) !== null && _a !== void 0 ? _a : 'white');
-            sandstone_1.team.modify(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, 'suffix', JSON.stringify(line.slice(nameIndex + 1)));
-            sandstone_1.team.join(`anon_${init_1.dataPack.packUid}_${generatedTeams}`, name);
-            sandstone_1.scoreboard.players.set(name, this.objectiveName, score);
-            generatedTeams++;
-        }
-    }
+    /**
+     * Shows the scoreboard
+     * @param teamColor The color of the team to show the scoreboard to
+     */
     show(teamColor) {
         if (Object.keys(this.lines).length === 0) {
             console.warn(chalk.keyword('orange')('Warning: Your scoreboard might not show because you haven\'t added any lines to it yet.'));
