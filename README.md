@@ -65,7 +65,7 @@ const myLine = new Line({
 myScoreboard.addLine(myLine);
 ```
 
-[Example 1](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example1.png)
+[Example 1](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example1.png)
 
 Lines *must* contain at least one non-whitespace character, because of how this library was created. This library works by adding this non-whitespace character to the scoreboard as a player, with all other text being used as prefixes/suffixes on a team to which the scoreboard player is assigned.
 
@@ -152,7 +152,7 @@ const myLine = new Line([{
 
 myScoreboard.addLine(myLine);
 ```
-[Example 2](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example2.png)
+[Example 2](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example2.png)
 
 Like scoreboards, lines aren't tied to any specific MCFunction, meaning you can export them and use them across multiple files. Additionally, lines can be used in different scoreboard and can be added to the same scoreboard multiple times!
 
@@ -184,7 +184,7 @@ myScoreboard.addLine(line1);
 myScoreboard.addLine(line2);
 myScoreboard.addLine(line3, 2);
 ```
-[Example 3](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example3.png)
+[Example 3](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example3.png)
 
 To remove a line from your scoreboard, use the same line instance you passed when you added it. This will remove all instances of that line from the scoreboard.
 
@@ -243,7 +243,7 @@ myScoreboard.animate([{
 }]);
 ```
 
-[Example 4](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/images/example4.gif)
+[Example 4](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example4.gif)
 
 # Planned Features
 
