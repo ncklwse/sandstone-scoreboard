@@ -1,6 +1,6 @@
 # sandstone-scoreboard
 
-Create complex custom scoreboards with scoreboards with ease!
+Create complex custom scoreboards with ease!
 
 # Installing
 
