@@ -55,14 +55,11 @@ const myScoreboard = new Scoreboard({
     bold: true
 });
 
-// Lines only support the text and color properties (for now)
-const myLine = new Line({
+// Adding the line to the scoreboard
+myScoreboard.addLine({
     text: 'Hello world!',
     color: 'white'
 });
-
-// Adding the line to the scoreboard
-myScoreboard.addLine(myLine);
 ```
 
 ![Example 1](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example1.png)
@@ -71,44 +68,44 @@ Lines *must* contain at least one non-whitespace character, because of how this 
 
 ```ts
 // Adds a player called "Hello", assigned to a team with the suffix " world!"
-myScoreboard.addLine(new Line({
+myScoreboard.addLine({
     text: 'a',
     color: 'white'
-}));
+});
 
 // Throws error
-myScoreboard.addLine(new Line({
+myScoreboard.addLine({
     text: ' ',
     color: 'white'
-}));
+});
 ```
 
 Additionally, if you have too many similar lines of text added to the same scoreboard from which different player names can't be generated, the code won't compile because the same player can't be added to a scoreboard twice.
 
 ```ts
 // Adds a player called "test"
-myScoreboard.addLine(new Line({
+myScoreboard.addLine({
     text: 'test',
     color: 'white'
-}));
+});
 
 // Adds a player called "tes"
-myScoreboard.addLine(new Line({
+myScoreboard.addLine({
     text: 'test',
     color: 'white'
-}));
+});
 
 // Adds a player called "a"
-myScoreboard.addLine(new Line({
+myScoreboard.addLine({
     text: 'a',
     color: 'white'
-}));
+});
 
 // Throws error
-myScoreboard.addLine(new Line({
+myScoreboard.addLine({
     text: 'a',
     color: 'white'
-}));
+});
 ```
 
 Scoreboards and lines both support arrays as of text, meaning you can combine multiple different formatting options:
@@ -130,7 +127,7 @@ const myScoreboard = new Scoreboard([{
     bold: false
 }]);
 
-const myLine = new Line([{
+myScoreboard.addLine([{
     text: 'Colors ',
     color: 'red'
 }, {
@@ -149,58 +146,41 @@ const myLine = new Line([{
     text: 'use!',
     color: 'dark_purple'
 }]);
-
-myScoreboard.addLine(myLine);
 ```
 ![Example 2](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example2.png)
 
-Like scoreboards, lines aren't tied to any specific MCFunction, meaning you can export them and use them across multiple files. Additionally, lines can be used in different scoreboard and can be added to the same scoreboard multiple times!
+Like scoreboards, lines aren't tied to any specific MCFunction, meaning you can export them and use them across multiple files. 
 
 ```ts
-// Adding a line to a scoreboard
-myScoreboard.addLine(myLine);
+import { MCFunction } from 'sandstone';
+import { myLine } from './MyOtherFile.ts';
 
-// Adding a line multiple times to the same scoreboard
-myOtherScoreboard.addLine(myLine);
-myOtherScoreboard.addLine(myLine);
+MCFunction('test', () => {
+    myLine.setText('Set text from a different function in another file!');
+});
 ```
 
 When adding a line, you can also specify a priority. The higher the priority, the higher the line will appear on the scoreboard. The default priority on all lines when they're added is 0.
 
 ```ts
-const line1 = new Line({
+myScoreboard.addLine({
     text: 'Added first'
 });
 
-const line2 = new Line({
+myScoreboard.addLine({
     text: 'Added second'
 });
 
-const line3 = new Line({
+myScoreboard.addLine({
     text: 'Added third, but with priority'
-});
-
-myScoreboard.addLine(line1);
-myScoreboard.addLine(line2);
-myScoreboard.addLine(line3, 2);
+}, 2);
 ```
 ![Example 3](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example3.png)
 
-To remove a line from your scoreboard, use the same line instance you passed when you added it. This will remove all instances of that line from the scoreboard.
+To edit a line on a scoreboard, use the `.setText()` method on the line:
 
 ```ts
-// Add the same line twice
-myScoreboard.addLine(myLine);
-myScoreboard.addLine(myLine);
-
-// Remove both lines at once using the same line instance
-myScoreboard.removeLine(myLine);
-```
-
-To update a line on a scoreboard, just update the original line instance. This change will be automatically be reflected across all the scoreboards it's been added to.
-
-```ts
-myLine.update({
+myLine.setText({
     text: 'Wooo!',
     color: 'green'
 });
@@ -216,11 +196,11 @@ myScoreboard.show();
 myScoreboard.hide();
 ```
 
-You can also show/hide your scoreboard to a specific team color:
+You can also show/hide your scoreboard to a specific display slot:
 
 ```ts
 // Show your scoreboard to teams with a color of red:
-myScoreboard.show('red');
+myScoreboard.show('sidebar.team.red');
 ```
 
 One of the features which I'm most proud of is the ability to animate scoreboard objectives, which can be done using the `.animate()` method. The sole argument is an array of objects with the `display` property containing a JSON Text Component, as well as an optional `duration` property. The duration of each frame is specified in ticks, with the default being 20.
@@ -245,11 +225,21 @@ myScoreboard.animate([{
 
 ![Example 4](https://raw.githubusercontent.com/ncklwse/sandstone-scoreboard/main/examples/example4.gif)
 
-# Planned Features
+You can also animate lines in a similar way:
 
-- Allow for lines to have *all* of the same formatting options that displays have.
-- Make scoreboard displays/animations transferrable between scoreboards in the same way that lines currently are.
-- General performance improvements/optimizations
+```ts
+myScoreboard.addLine('').animate([{
+    display: {
+        text: 'Animated'
+    },
+    duration: 10
+}, {
+    display: {
+        text: 'Line!'
+    },
+    duration: 10
+}])
+```
 
 # License
 

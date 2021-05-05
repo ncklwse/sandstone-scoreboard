@@ -1,49 +1,64 @@
-import { BASIC_COLORS, JSONTextComponent } from 'sandstone';
-import { Line } from '.';
+import { Keyframe, LineComponent, ScoreboardSlot } from './Interfaces';
 export declare class Scoreboard {
     private static instances;
-    private animated;
-    private animationState;
-    private displayName;
+    private static visibility;
+    private animations;
+    private lineAnimations;
+    private lineNames;
+    private lineScoreToRemove;
+    private renderCommands;
+    private renderQueue;
     private index;
-    private lines;
-    private initialized;
-    private objectiveName;
-    private addRawLine;
-    private parseRawLine;
-    private ready;
+    private state;
+    /**
+     * Renders a new scoreboard state based on previously rendered scoreboard states
+     * @param newState The new (partial) state to render
+     */
     private render;
     /**
-     * @param displayName A JSONTextComponent containing the text information for the default scoreboard display
+     * @param display The LineComponent containing the text information for the default scoreboard display
      */
-    constructor(displayName: JSONTextComponent);
+    constructor(display: LineComponent);
     /**
-     * Adds a Line to the scoreboard
-     * @param line The Line instance to add to the scoreboard
-     * @param priority The priority for how high up your line appears in the scoreboard
+     * Adds a line to the scoreboard
+     * @param lineComponent The LineComponent to add to the scoreboard
+     * @param priority The priority for how high up your line appears in the scoreboard; defaults to 0
+     * @returns An interface for modifying the line
      */
-    addLine(line: Line, priority?: number): void;
+    addLine(lineComponent: LineComponent, priority?: number): {
+        /**
+         * Animates the scoreboard line
+         * @param keyframes The array of Keyframes to animate through
+         */
+        animate(keyframes: Keyframe[]): void;
+        /**
+         * Resets the line to its initial value
+         */
+        reset(): void;
+        /**
+         * Sets the text of the line
+         * @param lineComponent The new LineComponent to replace the old one
+         */
+        setText(lineComponent: LineComponent): void;
+    };
     /**
-     * Animates the scoreboard display through an array of specified keyframes
-     * @param keyframes An array of JSONTextComponents with the added (optional) duration parameter, specified in ticks
+     * Animates the scoreboard display
+     * @param keyframes The array of Keyframes to animate through
      */
-    animate(keyframes: ({
-        display: JSONTextComponent;
-        duration?: number;
-    })[]): void;
+    animate(keyframes: Keyframe[]): void;
     /**
      * Hides the scoreboard
-     * @param teamColor The color of the team to hide the scoreboard from
+     * @param displaySlot The display slot to show the scoreboard to; defaults to all display slots
      */
-    hide(teamColor?: BASIC_COLORS): void;
+    hide(displaySlot?: ScoreboardSlot | ScoreboardSlot[]): void;
     /**
-     * Removes all matching Line instances from the scoreboard
-     * @param line The Line instance to remove from the scoreboard
+     * Sets the text of the scoreboard display; stops any currently running animations
+     * @param display The LineComponent containing the text information for the new scoreboard display
      */
-    removeLine(line: Line): void;
+    setText(display: LineComponent): void;
     /**
      * Shows the scoreboard
-     * @param teamColor The color of the team to show the scoreboard to
+     * @param displaySlot The display slot to show the scoreboard to; defaults to 'sidebar', or all players/teams
      */
-    show(teamColor?: BASIC_COLORS): void;
+    show(displaySlot?: ScoreboardSlot | ScoreboardSlot[]): void;
 }
