@@ -44,10 +44,10 @@ export const myScoreboard = new Scoreboard({
     bold: true
 });
 ```
-To add a line to your scoreboard, first instantiate the line class:
+To add a line to your scoreboard, just use the `.addLine()` method on the scoreboard. It returns an instance which can be used to interact with the line.
 
 ```ts
-import { Scoreboard, Line } from 'sandstone-scoreboard';
+import { Scoreboard } from 'sandstone-scoreboard';
 
 const myScoreboard = new Scoreboard({
     text: 'My Custom Scoreboard!',
@@ -111,7 +111,7 @@ myScoreboard.addLine({
 Scoreboards and lines both support arrays as of text, meaning you can combine multiple different formatting options:
 
 ```ts
-import { Scoreboard, Line } from 'sandstone-scoreboard';
+import { Scoreboard } from 'sandstone-scoreboard';
 
 const myScoreboard = new Scoreboard([{
     text: 'My ',
